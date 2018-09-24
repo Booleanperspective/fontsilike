@@ -1,2 +1,0 @@
-# fontsilike
-Fonts I like.
